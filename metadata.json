@@ -1,0 +1,5 @@
+
+{
+  "name": "SmartBank Secure Login",
+  "description": "A realistic banking-style login interface where authentication depends on the time taken to type the password. Access is granted if the password entry takes between 4 and 5 seconds."
+}
